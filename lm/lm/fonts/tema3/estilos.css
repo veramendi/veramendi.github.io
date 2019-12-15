@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.social {
+    position: sticky;
+    left: 0;
+    top: 300px;
+    z-index: 2000;
+}
+.social ul {
+    list-style: none;
+
+}
+.social ul a{
+    display: inline-block;
+    color: #fff;
+    background: #000;
+    padding:30px 40px ;
+    text-decoration: none;
+    -webkit-transition: all 500ms ease;
+    -o-transition: all 500ms ease;
+    transition: all 500ms ease;
+
+
+}
+.social ul .icon-facebook2{background: #3d5c9e;}
+.social ul .icon-twitter{background:#00abf0 ;}
+.social ul .icon-mail{background: rgb(207, 23, 23);}
+.social ul .icon-instagram{background: rgb(132, 6, 182);}
+
+.social ul a:hover {
+    padding: 50px 60px;
+    background: #000;
+}
+
+html {
+    background: #e6e9e9;
+    background-image: linear-gradient(270deg, rgb(230, 233, 233) 0%, rgb(216, 221, 221) 100%);
+    -webkit-font-smoothing: antialiased;
+}
+
+body {
+    background: rgb(131,58,180);
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.06);
+    color: ;
+    font-family: "Helvetica Neue", "Helvetica", "arial", "sans-serif";
+    font-size: 16px;
+    line-height: 3.5;
+    margin: 0 auto;
+    max-width: 1000px;
+    padding: 3em 3em 4em;
+    background: rgba(252,236,252,1);
+}
+p {
+    text-align: center;
+}
+h1 {
+    color: rgb(22, 22, 24);
+    font-family: verdana;
+    font-size: 300%;
+    background: red;
+}
+#h1 {
+    color:rgb(64, 66, 66);
+    font-family: "Times New Roman", Times, serif;
+    font-size: 200%;
+}
+a:link, a:visited {
+    text-align: center;
+    display: inline-block;
+    font-size: 25px;
+  }
+  nav a {
+    font-size: 20pk;
+    margin: 10px 10px;
+    display: inline-block;
+    color: #ffff;
+    background: #a6c90b;
+    padding:10px 10px;
+    box-shadow: 0px 7px 0px #021b0f;
+    background: hsl(197, 92%, 38%);
+    text-decoration: none;
+  }
+  a:hover {
+    box-shadow: 0px 10px 0px #c9470b;
+  }
