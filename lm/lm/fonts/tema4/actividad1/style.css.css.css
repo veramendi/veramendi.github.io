@@ -1,0 +1,22 @@
+#caja1 {
+  height: 100% auto;
+  width: 100% ;
+  background: #b0bec5;
+}
+#caja2 {
+    height: 50% ;
+    width: 50% ;
+    padding: 30px;
+    background: #fff;
+    border: rgb(90, 87, 87) 2px solid;
+    text-align: center;
+    
+    
+  }
+#caja3 {
+    height: 50% ;
+    width: 50%;
+    padding: 30px;
+    text-align: center;
+    border: rgb(141, 137, 137) 20px solid;
+  }
