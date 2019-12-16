@@ -1,0 +1,18 @@
+nav {
+     display: block;
+     width: 60% ;
+     -webkit-filter: grayscale(1);
+     filter: drop-shadow(3);
+}
+p {
+     display: block;
+     width: 30% ;
+     -webkit-filter: grayscale(1);
+     filter: invert(3)
+}
+#ejercicio {
+     display: block;
+     width: 70% ;
+     -webkit-filter: grayscale(1);
+     filter: sepia(5);
+}
