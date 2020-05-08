@@ -45,7 +45,7 @@ html {
 
 body {
     background: #fff;
-    box-shadow: 0 0 2px rgba(0, 0, 0, 0.06);
+    box-shadow: linear-gradient(270deg, rgb(230, 233, 233) 0%, rgb(216, 221, 221) 100%);
     color: #545454;
     font-family: "Helvetica Neue", "Helvetica", "arial", "sans-serif";
     font-size: 16px;
