@@ -1,0 +1,55 @@
+
+body {
+    
+    margin: 0;
+    text-align: justify;
+    
+
+    
+}
+main, header, footer, article, aside  {
+     padding: 1em;
+     margin: 15px;
+     border: 1px solid coral;
+     color: indigo;
+     background-color: forestgreen;
+}
+main {
+
+    background-color: grey;
+  
+}
+div {
+    display: flex;
+    flex: 60%;
+}
+@media (max-width: 1200px) {
+    div {
+        display: block;
+    }
+}
+header {
+   margin: 1em;
+    background-color: darkgoldenrod;
+   
+}
+section {
+    margin: 1em;
+    background-color: darkgreen;
+}
+.contenet {
+  
+    border: 1px solid coral;
+    background-color: indigo;
+    flex: auto;
+}
+aside {
+    margin: 1em;
+    max-width: 75rem;
+
+}
+footer {
+    border: 1px solid coral;
+    background-color: deeppink;
+    flex: auto;
+}
