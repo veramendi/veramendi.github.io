@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<PEDIDO>
+    <Destinatario>Juan Martínez</Destinatario>
+    <Articulo>bicicleta B2023</Articulo>
+    <Direccion>calle Barco 4, tercer piso, letra A</Direccion>
+    <Fecha>19-5-2000</Fecha>
+</PEDIDO>

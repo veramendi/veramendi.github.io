@@ -1,0 +1,28 @@
+img {
+ animation-duration: 6s;
+ animation-name: slidein;
+ -webkit-transform: rotate(360deg);transform: rotate(360deg);
+}
+img {
+  display: block;
+  width: 50% ;
+  -webkit-filter: grayscale(2);
+  filter: invert(2) ;
+}
+@keyframes slidein {
+ from {
+   margin-left: 100%;
+   width: 300%
+   border-radius:50%;
+  -webkit-border-radius:50%;
+   box-shadow: 0px 0px 15px 15px #ec731e;
+  -webkit-box-shadow: 0px 0px 15px 15px #ec731e;
+  transform: rotate(360deg);
+  -webkit-transform: rotate(360deg);
+ }
+
+ to {
+   margin-left: 0%;
+   width: 100%;
+ }
+}
