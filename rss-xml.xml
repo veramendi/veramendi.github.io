@@ -3,26 +3,34 @@
 <channel>
 <title>Ejercicios Evelyn Veramendi</title>
 <link>https://veramendi.github.io//</link>
-<description>Ejercicios xml</description>
+<description>Ejercicios xml/dtd</description>
 <item>
 <title>Ejercicio 1</title>
-<link> https://veramendi.github.io//lm/tema1/index.html </link>
+<link> https://veramendi.github.io//lm/lm/tema6/index.html </link>
 </item>
 <item>
 <title>Ejercicio 2</title>
-<link> https://veramendi.github.io/lm/tema2/index.html </link>
+<link> https://veramendi.github.io/lm/lm/tema6/index.html </link>
 </item>
 <item>
 <title>Ejercicio 3</title>
-<link> https://veramendi.github.io/lm/tema3/index.html </link>
+<link> https://veramendi.github.io/lm/lm/tema6/index.html </link>
 </item>
 <item>
 <title>Ejercicio 4</title>
-<link> https://veramendi.github.io/lm/tema4/index.html </link>
+<link> https://veramendi.github.io/lm/lm/tema6/index.html </link>
 </item>
 <item>
 <title>Ejercicio 5</title>
-<link> https://veramendi.github.io/lm/tema5/index.html </link>
+<link> https://veramendi.github.io/lm/lm/tema6/index.html </link>
+</item>
+  <item>
+<title>Ejercicio 6</title>
+<link> https://veramendi.github.io/lm/lm/tema6/index.html </link>
+</item>
+  <item>
+<title>Ejercicio 7</title>
+<link> https://veramendi.github.io/lm/lm/tema6/index.html </link>
 </item>
 </channel>
 </rss>
