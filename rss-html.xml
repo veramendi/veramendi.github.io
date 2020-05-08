@@ -6,31 +6,31 @@
 <description>Ejercicios html</description>
 <item>
 <title>Cordoba patrimonio</title>
-<link> ######### </link>
+<link>https://veramendi.github.io/lm/lm/patrimonio/index.html</link>
 </item>
 <item>
 <title>Recetas</title>
 <link> ######### </link>
 </item>
 <item>
-<title>Tema 1</title>
-<link> https://veramendi.github.io/lm/tema1/index.html </link>
+<title>correo</title>
+<link> https://veramendi.github.io/lm/lm/tema6/xml/correo/correo.xml </link>
 </item>
 <item>
-<title>Tema 2</title>
-<link> https://veramendi.github.io/lm/tema2/index.html </link>
+<title>Nota</title>
+<link> https://veramendi.github.io/lm/lm/tema6/xml/nota/nota.xml </link>
 </item>
 <item>
-<title>Tema 3</title>
-<link> https://veramendi.github.io/lm/tema3/index.html </link>
+<title>Paises</title>
+<link>https://veramendi.github.io/lm/lm/tema6/xml/paises/paisess.xml </link>
 </item>
 <item>
-<title>Tema 4</title>
-<link> https://veramendi.github.io/lm/tema4/index.html </link>
+<title>Pedidos</title>
+<link>https://veramendi.github.io/lm/lm/tema6/xml/pedidos/pedidos.xml </link>
 </item>
 <item>
 <title>Tema 5</title>
-<link> https://veramendi.github.io/lm/tema5/index.html </link>
+<link> https://veramendi.github.io/lm/lm/tema5/index.html </link>
 </item>
 </channel>
 </rss>
